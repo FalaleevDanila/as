@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danila/CLionProjects/Dz_assembler/includes/pcMemoryRead.h
+chrono
+-
+cstring
+-
+time.h
+-
+cerrno
+-
+string.h
+-
+
+/home/danila/CLionProjects/Dz_assembler/sourses/pcMemoryRead.cpp
+numeric
+-
+cstring
+-
+../includes/pcMemoryRead.h
+/home/danila/CLionProjects/Dz_assembler/includes/pcMemoryRead.h
+

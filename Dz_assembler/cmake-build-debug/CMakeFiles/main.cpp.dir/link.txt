@@ -1,0 +1,1 @@
+/usr/bin/g++-8  -g   CMakeFiles/main.cpp.dir/sourses/pcMemoryRead.cpp.o CMakeFiles/main.cpp.dir/sourses/myMemoryRead.cpp.o CMakeFiles/main.cpp.dir/sourses/results.cpp.o CMakeFiles/main.cpp.dir/main.cpp.o  -o main.cpp 
